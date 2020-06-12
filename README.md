@@ -23,4 +23,4 @@ I`m going to make a youtube series about making a democms system.
 ### include
 1. Opensource(MIT) react admin panel(https://www.creative-tim.com/product/light-bootstrap-dashboard-react)
 ### not include
-1. SEO( I`m only making admin pages so it`s pure react, if you want make some seo friendly pages consider gatsbyjs )
+1. SEO( I'm only making admin pages so it's pure react, if you want make some seo friendly pages consider gatsbyjs )
